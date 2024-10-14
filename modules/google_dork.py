@@ -38,4 +38,3 @@ if __name__ == "__main__":
 
     # Google'da dorking işlemini başlat
     google_dork(domain, dorks)
-/usr/local/python/3.12.1/bin/python3 google_dork.py
