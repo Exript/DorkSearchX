@@ -1,0 +1,70 @@
+intitle:index of /usernames, Files Containing Usernames
+intitle:index of contacts.txt, Files Containing Juicy Info
+intext:-----BEGIN CERTIFICATE----- ext:txt, Files Containing Juicy Info
+intitle:index of db.properties | db.properties.BAK, Files Containing Usernames
+intitle:index of credentials.xml | credentials.inc | credentials.txt, Files Containing Usernames
+intitle:index of password.yml
+jdbc:sqlserver://localhost:1433 + username + password ext:yml | ext:java
+'dsn: mysql:host=localhost;dbname= ext:yml | ext:txt password:
+intitle:index of sitemanager.xml | recentservers.xml, Sensitive Directories
+intitle:index of filezilla.xml, Sensitive Directories
+inurl:user intitle:index of ext:sql | xls | xml | json | csv
+filetype:csv intext:Secret access key, # Dork: filetype:csv intext:"Secret access key"
+DefaultPassword ext:reg [HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon]
+jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab
+intitle:index of /parameters.yml*, Files Containing Usernames
+CREATE ROLE + ENCRYPTED PASSWORD ext:sql | ext:txt | ext:ini -git -gitlab
+File contains Sensitive Information
+index of users.frm, - Disclosure of database file tables and sensitive files.
+intitle:index of tomcat-users.xml, intitle:"index of" "tomcat-users.xml"
+intitle:index of /ftpusers
+intitle:index of users.sql
+allintext:username filetype:log
+intitle:index of service.grp
+intitle:index.of users.db
+username.xlsx ext:xlsx
+inurl:/_layouts/mobile/view.aspx?List=
+authentication failure; logname= ext:log
+inurl:/profile.php?lookup=1
+inurl:/root/etc/passwd intext:home/*:
+intext:root:x:0:0:root:/root:/bin/bash inurl:*=/etc/passwd
+site:extremetracking.com inurl:login=
+intext:SteamUserPassphrase= intext:SteamAppUser= -username -user
+inurl:root.asp?acs=anon
+filetype:conf inurl:proftpd.conf -sample
+filetype:log username putty
+filetype:reg reg +intext:internet account manager
+filetype:reg reg HKEY_CURRENT_USER username
++intext:webalizer +intext:Total Usernames +intext:Usage Statistics for
+inurl:php inurl:hlstats intext:Server Username
+index of / lck
+index.of perform.ini
+inurl:admin inurl:userlist
+inurl:admin filetype:asp inurl:userlist
+intitle:index.of .sh_history
+intitle:index.of .bash_history
+intitle:"index of" inurl:admin
+intitle:"index of" inurl:login
+intitle:"index of" inurl:dashboard
+intitle:"index of" inurl:config
+intitle:"index of" inurl:wp-admin
+intitle:"index of" inurl:wp-content
+intitle:"index of" inurl:uploads
+intitle:"index of" inurl:files
+intitle:"index of" inurl:private
+intitle:"index of" inurl:public
+intitle:"index of" inurl:backup
+intitle:"index of" inurl:db
+intitle:"index of" inurl:database
+intitle:"index of" inurl:settings
+intitle:"index of" inurl:server
+intitle:"index of" inurl:tmp
+intitle:"index of" inurl:temp
+intitle:"index of" inurl:images
+intitle:"index of" inurl:docs
+intitle:"index of" inurl:files
+intitle:"index of" inurl:logs
+intitle:"index of" inurl:config.json
+intitle:"index of" inurl:config.xml
+intitle:"index of" inurl:config.php
+intitle:"index of" inurl:config.yml
